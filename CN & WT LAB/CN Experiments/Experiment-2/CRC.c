@@ -36,13 +36,13 @@
 		strcpy(temp,rem);
 	}
 	strcpy(rem,temp);
-	printf("\nData is ");
+	printf("\nMesage is ");
 	for (i = 0; i < msglen; i++)
 	 printf("%c",quot[i]);
 	printf("\nCRC is ");
 	for (i = 0; i < coefflen - 1; i++)
 	 printf("%c",rem[i]);
-	printf("\nRECEIVER END: ");
+	printf("\nMessage on the receiver end: ");
 	for (i = 0;i < msglen; i++)
 	 printf("%c",input[i]);
 	for (i = 0;i < coefflen - 1; i++)
