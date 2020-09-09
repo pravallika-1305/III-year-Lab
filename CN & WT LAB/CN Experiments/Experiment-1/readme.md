@@ -21,3 +21,13 @@ Framing breaks the datagrams passed down by above layers and convert them into f
     - The flag bit is added again.
     
   ![Output](https://github.com/pravallika-1305/III-year-Lab/blob/master/CN%20%26%20WT%20LAB/CN%20Experiments/Experiment-1/output2.png)
+  
+  3. Character Stuffing
+
+  - Procedure  
+    - The data that needs to be transmitted is taken as the input.
+    - The flag bit DLESTX is added to the data, to mark the begining of the data.
+    - If there's  a "DLE" in the data then an aditional "DLE" is added infornt of it.
+    - The flag bit DLEETX is added to mark the end of data.
+    
+  ![Output](https://github.com/pravallika-1305/III-year-Lab/blob/master/CN%20%26%20WT%20LAB/CN%20Experiments/Experiment-1/output3.png)
