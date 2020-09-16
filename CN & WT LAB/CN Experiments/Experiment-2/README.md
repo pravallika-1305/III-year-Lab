@@ -3,7 +3,7 @@
 Write a program to compute CRC code for the polynomials CRC-12,CRC-16 and CRC CCIP
 
 ### Flow Diagram
-!Flow-Diagram](https://media.geeksforgeeks.org/wp-content/uploads/detect14.jpg)
+![Flow-Diagram](https://media.geeksforgeeks.org/wp-content/uploads/detect14.jpg)
 ### Steps
 
 #### Sender End -
