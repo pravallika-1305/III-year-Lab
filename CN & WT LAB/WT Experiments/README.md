@@ -1,14 +1,22 @@
 # Experimet 1
 
 ## Aim of the Experiment
-Develop static pages (using Only HTML) of an online book store. The pages should resemble: www.amazon.com. The  website should consist the following  pages.
+Develop static pages of an online book store, resembling: www.amazon.in. The  website should consist the following  pages.
+
 a)Home page
+
 b)Registration and user Login
+
 c)User Profile Page
+
 d)Books catalog
-e)Shopping Cart 
+
+e)Shopping Cart
+
 f)Payment By credit card
+
 g)Order  Conformation
+
 
 ### Components
 
