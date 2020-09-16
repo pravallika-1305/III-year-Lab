@@ -25,8 +25,11 @@ Write a program to compute CRC code for the polynomials CRC-12,CRC-16 and CRC CC
 #### Receiver End -
 
    1.The transmitted code word is received.
+   
    2.The received code word is divided with the same CRC generator.
+   
    3.On division, the remainder so obtained is checked.
+ 
 ##### Checking whether data is received correctly or not 
 ###### If the remainder is zero,
 
