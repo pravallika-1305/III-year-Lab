@@ -10,7 +10,7 @@ e)Shopping Cart
 f)Payment By credit card
 g)Order  Conformation
 
-### Steps or Procedure of experiment
+### Components
 
 #### Home.html
 
