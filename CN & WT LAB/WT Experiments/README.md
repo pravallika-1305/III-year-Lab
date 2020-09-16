@@ -13,8 +13,12 @@ g)Order  Conformation
 ### Components
 
 #### Home.html
+Usage of image slider, navbar, cards, side navbar, icons and buttons.
 
+ ![Output](home.png)
+ 
+  ![Output](sidenav.png)
 #### Register.html
-Usage of filetype, radio buttons, forms.
+Usage of filetype, radio buttons and forms.
 
  ![Output](output_register.png)
