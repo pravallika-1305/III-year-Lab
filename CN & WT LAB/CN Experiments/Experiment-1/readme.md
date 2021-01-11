@@ -2,7 +2,7 @@
 ## To implement the data link layer framing methods such as character counting, character-stuffing and bit stuffing.
 
 Framing breaks the datagrams passed down by above layers and convert them into frames ready for transfer.
-1. Character Counting
+**1. Character Counting**
 
   - Procedure  
     - The data that needs to be transmitted is taken as the input.
@@ -12,7 +12,7 @@ Framing breaks the datagrams passed down by above layers and convert them into f
   ![Output](https://github.com/pravallika-1305/III-year-Lab/blob/master/CN%20%26%20WT%20LAB/CN%20Experiments/Experiment-1/output1.png)
   
   
-  2. Bit Stuffing
+  **2. Bit Stuffing**
 
   - Procedure  
     - The data that needs to be transmitted is taken as the input.
@@ -22,7 +22,7 @@ Framing breaks the datagrams passed down by above layers and convert them into f
     
   ![Output](https://github.com/pravallika-1305/III-year-Lab/blob/master/CN%20%26%20WT%20LAB/CN%20Experiments/Experiment-1/output2.png)
   
-  3. Character Stuffing
+  **3. Character Stuffing**
 
   - Procedure  
     - The data that needs to be transmitted is taken as the input.
