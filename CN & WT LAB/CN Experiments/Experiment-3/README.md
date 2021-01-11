@@ -9,6 +9,8 @@
    
 In these protocols, the sender has a buffer called the sending window and the receiver has buffer called the receiving window.The size of the sending window determines the sequence number of the outbound frames. If the sequence number of the frames is an n-bit field, then the range of sequence numbers that can be assigned is 0 to 2𝑛−1. Consequently, the size of the sending window is 2𝑛−1. Thus in order to accommodate a sending window size of 2𝑛−1, a n-bit sequence number is chosen.
 
+   
+ # Output - (Sliding Window)
   ![Output](sliding_window.png)
   
   
@@ -26,6 +28,8 @@ In Go-Back-N ARQ, the frames are numbered sequentially as Go-Back-N ARQ sends th
    
 4.After receiving the acknowledgment for packet 2, the sender sends the next packet. By repeating these steps we conclude the total transmissions required.
   
+     
+  # Output - (Go-Back-N-ARQ)
   ![Output](go_back_n_arq.png)
   
   
