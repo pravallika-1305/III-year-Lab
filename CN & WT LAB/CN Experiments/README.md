@@ -1,4 +1,4 @@
-## List of Experiments
+# Computer Networks Experiments
 1. Implement the data link layer framing methods such as character, character-stuffing and bit
 stuffing.
 2. Write a program to compute CRC code for the polynomials CRC-12, CRC-16 and CRC CCIP
