@@ -2,7 +2,7 @@
 ## To implement the data link layer framing methods such as character counting, character-stuffing and bit stuffing.
 
 Framing breaks the datagrams passed down by above layers and convert them into frames ready for transfer.
-**1. Character Counting**
+ **1. Character Counting**
 
   - Procedure  
     - The data that needs to be transmitted is taken as the input.
