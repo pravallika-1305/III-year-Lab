@@ -15,9 +15,9 @@ and loss recovery using the Go-Back-N mechanism.
     - Starting Wire shark
     - Viewing Captured Traffic
     - Analysis and Statistics & Filters.
-11.How to run Nmap scan
-12.Operating System Detection using Nmap
-13.Do the following using NS2 Simulator
+11. How to run Nmap scan
+12. Operating System Detection using Nmap
+13. Do the following using NS2 Simulator
     - NS2 Simulator-Introduction
     - Simulate to Find the Number of Packets Dropped
     - Simulate to Find the Number of Packets Dropped by TCP/UDP
