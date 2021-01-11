@@ -12,7 +12,7 @@ In these protocols, the sender has a buffer called the sending window and the re
   ![Output](sliding_window.png)
   
   
-  ## 2. Go-Back-N-ARQ Protocol
+  ### 2. Go-Back-N-ARQ Protocol
 
  In Go-Back-N ARQ, N is the sender's window size. Suppose we say that Go-Back-3, which means that the three frames can be sent at a time before expecting the acknowledgment from the receiver.
    
@@ -25,6 +25,6 @@ In Go-Back-N ARQ, the frames are numbered sequentially as Go-Back-N ARQ sends th
 3.Now, the sender receives the acknowledgment of packet 
    
 4. After receiving the acknowledgment for packet 2, the sender sends the next packet. By repeating these steps we conclude the total transmissions required.
-  ![Output](go_back_n_arq_protocol.png)
+  ![Output](go_back_n_protocol.png)
   
   
