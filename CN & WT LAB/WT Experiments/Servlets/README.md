@@ -1,5 +1,5 @@
 # AIM
-## To create servlet that calculates sum of 2 numbers given as input.
+## To create a servlet that calculates sum of 2 numbers given as input.
   
 # Procedure
  1) On Eclipse, create a new dynamic web project by checking the option for producing deployment descriptor file.
