@@ -1,9 +1,7 @@
-# Experiment 7
+# Aim of the Experiment
+## Write a C program Implement data encryption and data decryption
 
-## Aim of the Experiment
-Write a C program Implement data encryption and data decryption
-
-## Steps or Procedure of experiment
+# Steps or Procedure of experiment
 
 Step 1: Start
 
@@ -23,6 +21,6 @@ Step 8: For decryption, m = c^d mod n.
 
 Step 9: Stop
 
-## Output
+# Output
 
 ![output](en_de.png)
