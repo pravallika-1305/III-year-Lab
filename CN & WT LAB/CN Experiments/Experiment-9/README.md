@@ -1,10 +1,8 @@
 
-# Experiment 9
+# Aim 
+## Write a C program for frame sorting technique used in buffers
 
-## Aim of the Experiment
-Write a C program for frame sorting technique used in buffers
-
-## Steps or Procedure of experiment
+# Steps or Procedure of experiment
 
 Step 1: Start
 
@@ -22,6 +20,6 @@ Step 7: Finally you need to print the original message.
 
 Step 8: Stop
 
-## Output
+# Output
 
 ![output](frame_sort.png)
