@@ -1,4 +1,4 @@
-# Aim of the Experiment
+# Aim
 ## Write a C program Implement data encryption and data decryption
 
 # Steps or Procedure of experiment
