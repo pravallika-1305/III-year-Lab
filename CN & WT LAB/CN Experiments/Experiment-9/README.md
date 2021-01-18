@@ -2,7 +2,7 @@
 # Aim 
 ## Write a C program for frame sorting technique used in buffers
 
-# Steps or Procedure of experiment
+# Procedure
 
 Step 1: Start
 
