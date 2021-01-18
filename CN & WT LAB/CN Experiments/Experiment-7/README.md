@@ -1,4 +1,4 @@
-# Experimet 7
+# Experiment 7
 
 ## Aim of the Experiment
 Write a C program Implement data encryption and data decryption
